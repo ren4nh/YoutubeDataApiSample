@@ -1,2 +1,2 @@
 # YoutubeDataApiSample
-Projeto de exemplo de utilização da api do youtube para procurar videos
+Projeto de exemplo usando a api do youtube para procurar videos
